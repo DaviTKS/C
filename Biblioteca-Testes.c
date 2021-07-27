@@ -20,7 +20,7 @@ void ping(void)
     system("ping localhost -n 3 >nul");
 }
 
-void hacker(void)
+void verde(void)
 {
 
     system("color 0a");
@@ -33,7 +33,7 @@ int main()
  int i = 0;
  short x = 1;
  short y = 1;
- hacker();
+ verde();
  cls();
 
 a:
